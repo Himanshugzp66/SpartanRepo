@@ -1,0 +1,6 @@
+                              <<<<<<<to create web application >>>>>>>
+
+
+>> create a folder > rc > open with vs code editor > go to getbootsrap website > documentation > copy any template file of html > install "live server" from vscode > then one indication appears somewhere as :go "Go Live" > in bootstrap > vavelbar > cony template > paste on the place of "hello world"{for changing the structure or data only) 
+
+>> you can switch the branch by "git checkout master"  to  Bild "git checkout -b name"  and can make changes in your own branch that you made it. and want back your previous website structure can switch the branch to main 
