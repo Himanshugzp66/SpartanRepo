@@ -1,2 +1,2 @@
-prit("Hello from the Earth1.0")
+print("Hello from the Earth1.0")
 
