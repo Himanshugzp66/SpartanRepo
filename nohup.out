@@ -1,0 +1,13 @@
+today's date
+Tue Nov 26 11:52:29 PM IST 2024
+present working dir
+/home/himanshu/script-folder
+list
+01-test.sh
+nohup.out
+reachfile.txt
+testing.log
+Is this root?
+./01-test.sh: line 11: cd: /root: Permission denied
+hostname is
+himanshu
