@@ -1,1 +1,1 @@
-print("this is my world")
+rint("this is my world")
