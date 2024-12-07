@@ -4,6 +4,6 @@ print("you are a good boy.")
 
 print("fixed ip addr in jenkins tools.")
 print("without giving ip addr in jenkins")
-Print(dsjsjj""
+Print(edited from github")
       
 
